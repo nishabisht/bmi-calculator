@@ -1,6 +1,6 @@
   .bmiForm{
     position: fixed;
-    top: 20%;
+    top: 13%;
     left: 35%;
     width: 25%;
     padding: 45px 25px 45px 25px;
@@ -27,4 +27,13 @@
     #p1{
       font-size: 15px;
     }
- 
+
+    #short {
+      width: 60%;
+      display: inline;
+      margin: 5% 3%;
+    }
+
+    .height {
+      margin-left: 25%;
+  }
